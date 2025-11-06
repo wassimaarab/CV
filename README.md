@@ -15,7 +15,7 @@ I’m passionate about **machine learning**, **software engineering**, and **AI 
 ## 🧾 Preview
 
 You can view my latest CV here:  
-👉 **[Download / View the PDF](./WASSIM_AARAB_CV.pdf)**  
+👉 **[Download / View the PDF](./src/WASSIM_AARAB_CV.pdf)**  
 
 Or check out the preview below:
 
@@ -40,6 +40,6 @@ Or check out the preview below:
 If you want to compile the CV yourself:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/wassimaarab/CV.git
+cd CV
 pdflatex main.tex
