@@ -15,7 +15,7 @@ I’m passionate about **machine learning**, **software engineering**, and **AI 
 ## 🧾 Preview
 
 You can view my latest CV here:  
-👉 **[Download / View the PDF](./src/WASSIM_AARAB_CV.pdf)**  
+👉 **[Download / View the PDF](./src/CV_Wassim_AARAB_CV.pdf)**  
 
 Or check out the preview below:
 
