@@ -15,12 +15,12 @@ I’m passionate about **machine learning**, **software engineering**, and **AI 
 ## 🧾 Preview
 
 You can view my latest CV here:  
-👉 **[Download / View the PDF](./src/CV_Wassim_AARAB_CV.pdf)**  
+👉 **[Download / View the PDF](src/CV_Wassim_AARAB.pdf)**  
 
 Or check out the preview below:
 
 <p align="center">
-  <img src="./preview.png" alt="CV preview" width="700px">
+  <img src="./src/CV_Wassim_AARAB.pdf" alt="CV preview" width="700px">
 </p>
 
 > The image above is a generated preview of the compiled CV.
